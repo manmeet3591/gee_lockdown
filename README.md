@@ -2,7 +2,7 @@ This repository contains all the GEE codes for the paper "Quantifying global cha
 
 Requires cartoee, cartopy, ee
 
-Installation of cartoee : python 2.7
+Installation of cartoee : python 3.5
 
 sudo apt-get install libproj-dev proj-bin
 sudo apt-get install libgeos-dev
